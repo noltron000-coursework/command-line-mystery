@@ -24,12 +24,13 @@ The Command Line Murders
 	OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
 	`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
+> **Note:** This is NOT a simple point & click affair; you will need to check hint files and use specific command line words to successfully navigate this mystery.  Don't worry if it doesn't make complete sense in the beginning, it's a mystery! Feel free to search the Internet for help or reach out to your fellow developers!
 
 There's been a murder in Terminal City, and TCPD needs your help.
 
 To figure out whodunit, you need access to a command line.
 
-Once you're ready, clone this repo, or [download it as a zip file](https://github.com/veltman/clmystery/archive/master.zip).
+Once you're ready, clone this repo.
 
 Open a Terminal, go to the location of the files, and start by reading the file 'instructions'.
 
@@ -37,7 +38,7 @@ One way you can do this is with the command:
 
 	cat instructions
 
-(`cat` is a command that will print the contents of the file called `instructions` for you to read.)
+(`cat` is a command that will priant the contents of the file called `instructions` for you to read.)
 
 To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
 
